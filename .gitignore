@@ -1,6 +1,9 @@
 # Ignore environment files
 .env
 
+# Ignore database
+database/
+
 # Ignore Python bytecode
 __pycache__/
 *.pyc
